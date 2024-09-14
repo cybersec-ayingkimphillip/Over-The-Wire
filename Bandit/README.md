@@ -5,3 +5,5 @@ The objective of the game is to discover the password for the next user that is 
 **Host: bandit.labs.overthewire.org**
 
 **Port: 2220**
+
+https://overthewire.org/wargames/bandit/
