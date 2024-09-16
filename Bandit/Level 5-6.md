@@ -12,9 +12,9 @@ Conditions of the file that contains the password are the following:
 
 Methodology:
 
-    1. Execute the command: sudo ssh bandit4@bandit.labs.overthewire.org -p 2220
+    1. Execute the command: sudo ssh bandit5@bandit.labs.overthewire.org -p 2220
 
-    2. Enter the password for bandit4: (From previous step). Once logged into bandit4, user is automatically in ~ directory.
+    2. Enter the password for bandit5: (From previous step). Once logged into bandit5, user is automatically in ~ directory.
 
     3. Execute the command: ls -l to check the files and/or directories inside the current directory.
 
