@@ -4,9 +4,9 @@ Given: A file with filename 'data.txt' having content that contains both readabl
 
 Methodology:
 
-    1. Execute the command: sudo ssh bandit8@bandit.labs.overthewire.org -p 2220
+    1. Execute the command: sudo ssh bandit9@bandit.labs.overthewire.org -p 2220
 
-    2. Enter the password for bandit8: (From previous step). Once logged into bandit8, user is automatically in ~ directory.
+    2. Enter the password for bandit9: (From previous step). Once logged into bandit9, user is automatically in ~ directory.
 
     3. Execute the command: ls -l to check the files and/or directories inside the current directory.
 
